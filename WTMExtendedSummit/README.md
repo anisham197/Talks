@@ -1,10 +1,12 @@
 # WTMExtendedSummit
 
-Sign Language Recognizer using TensorFlow
+Talk on Machine Learning with TensorFlow at International Women's Day Extended Summit organised by GDG Bangalore and Women Techmakers.
 
-To run the web server: 
+Hands on Codelab: Sign Language Recognizer using TensorFlow
+
+To run the web server:
 ```
-cd src
+cd webapp/src
 python3 -m http.server
 ``` 
 
