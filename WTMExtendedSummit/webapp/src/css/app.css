@@ -1,0 +1,25 @@
+.webcontainer {
+    width: 100%;
+    height: 100%;
+}
+
+#videoElement {
+    width: 60%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+.canvas-box-wrapper {
+    display: block !important; 
+}
+
+#chart_box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px; 
+}
+@media screen and (max-width: 640px) {
+    #chart_box {
+        padding: 5px; 
+    } 
+}
